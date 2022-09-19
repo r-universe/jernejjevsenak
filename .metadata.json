@@ -1,9 +1,5 @@
 [
   {
-    "package": "dendroTools",
-    "oncran": true
-  },
-  {
     "package": "rTG",
     "oncran": true
   }
