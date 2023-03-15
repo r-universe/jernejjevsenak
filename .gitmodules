@@ -8,6 +8,11 @@
 	url = https://github.com/jernejjevsenak/dendrotools
 	shallow = true
 	registered = true
+[submodule "MLFS"]
+	path = MLFS
+	url = https://github.com/jernejjevsenak/mlfs
+	shallow = true
+	registered = true
 [submodule "rTG"]
 	path = rTG
 	url = https://github.com/jernejjevsenak/rtg
