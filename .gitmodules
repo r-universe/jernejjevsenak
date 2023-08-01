@@ -2,12 +2,12 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
-[submodule "dendroTools"]
-	path = dendroTools
-	url = https://github.com/jernejjevsenak/dendrotools
 [submodule "MLFS"]
 	path = MLFS
 	url = https://github.com/jernejjevsenak/mlfs
+[submodule "dendroTools"]
+	path = dendroTools
+	url = https://github.com/jernejjevsenak/dendrotools
 [submodule "rTG"]
 	path = rTG
 	url = https://github.com/jernejjevsenak/rtg
